@@ -30,5 +30,15 @@ public class MonsterMash {
                         + "(Ta-da-shoop, wa-ooh) the party had just begun"
                         + "(Ta-da-shoop, wa-ooh) the guests included Wolfman"
                         + "(Ta-da-shoop, wa-ooh) Dracula, and his son");
+        
+        System.out.println("Verse 3: (Wa-ooh) the scene was rockin', all were digging the sounds"
+                        + "(Wa-ooh) Igor on chains, backed by his baying hounds"
+                        + "(Wa-wa-ooh) the coffin-bangers were about to arrive"
+                        + "(Wa-ooh) with their vocal group, The Crypt-Kicker Five");
+
+        System.out.println("Chorus 3: (They played the mash), they played the monster mash"
+                        + "(The monster mash) it was a graveyard smash"
+                        + "(They played the mash) it caught on in a flash"
+                        + "(They played the mash) they played the monster mash");
     }
 }
