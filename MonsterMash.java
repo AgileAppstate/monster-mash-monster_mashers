@@ -93,5 +93,19 @@ public class MonsterMash {
                             (Then you can mash) you'll catch on in a flash
                             (Then you can mash) then you can monster mash
                            """);
+
+        System.out.println("""
+                           Outro: 
+                            (Wa-ooh) mash good
+                            (Monster mash, wa-ooh) easy, Igor, you impetuous young boy
+                            (Monster mash, wa-ooh) mash good
+                            (Monster mash, wa-ooh)
+                            (Monster mash, wa-ooh)
+                            (Monster mash, wa-ooh)
+                            (Monster mash, wa-ooh)
+                            (Monster mash, wa-ooh)
+                           """);
+
+        
     }
 }
