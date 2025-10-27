@@ -97,6 +97,7 @@ public class MonsterMash {
         System.out.println("""
                            Outro: 
                             (Wa-ooh) mash good
+                            (Monster mash, wa-ooh) easy, Igor, you impetuous young boy
                             (Monster mash, wa-ooh) mash good
                             (Monster mash, wa-ooh)
                             (Monster mash, wa-ooh)
