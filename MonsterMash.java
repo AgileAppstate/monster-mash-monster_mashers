@@ -15,5 +15,15 @@ public class MonsterMash {
                             + "(The monster mash) it was a graveyard smash"
                             + "(He did the mash) it caught on in a flash"
                             + "(He did the mash) he did the monster mash");
+
+        System.out.println("Verse 2: (Wa-ooh) from my laboratory in the castle east"
+                            + "(Wa-ooh) to the master bedroom where the vampires feast"
+                            + "(Wa-wa-ooh) the ghouls all came from their humble abodes"
+                            + "(Wa-ooh) to get a jolt from my electrodes");
+
+        System.out.println("Chorus 2: (They did the mash) they did the monster mash"
+                            + "(The monster mash) it was a graveyard smash"
+                            + "(They did the mash) it caught on in a flash"
+                            + "(They did the mash) they did the monster mash");
     }
 }
