@@ -25,5 +25,10 @@ public class MonsterMash {
                             + "(The monster mash) it was a graveyard smash"
                             + "(They did the mash) it caught on in a flash"
                             + "(They did the mash) they did the monster mash");
+
+        System.out.println("Bridge: (Wa-ooh) the zombies were having fun"
+                        + "(Ta-da-shoop, wa-ooh) the party had just begun"
+                        + "(Ta-da-shoop, wa-ooh) the guests included Wolfman"
+                        + "(Ta-da-shoop, wa-ooh) Dracula, and his son");
     }
 }
