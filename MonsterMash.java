@@ -4,52 +4,94 @@ public class MonsterMash {
 
         System.out.println("Welcome to Monster Mash!");
 
-        System.out.println("Lyrics:");
+        System.out.println("Lyrics:\n");
 
-        System.out.println("Verse 1: I was working in the lab, late one night"
-                             + " When my eyes beheld an eerie sight"
-                             + " For my monster, from his slab, began to rise"
-                             + " And suddenly to my surprise");
+        System.out.println("""
+                           Verse 1: 
+                            I was working in the lab, late one night
+                            When my eyes beheld an eerie sight
+                            For my monster, from his slab, began to rise
+                            And suddenly to my surprise
+                           """);
 
-        System.out.println("Chorus 1: (He did the mash) he did the monster mash"
-                            + " (The monster mash) it was a graveyard smash"
-                            + " (He did the mash) it caught on in a flash"
-                            + " (He did the mash) he did the monster mash");
+        System.out.println("""
+                           Chorus 1: 
+                            (He did the mash) he did the monster mash
+                            (The monster mash) it was a graveyard smash
+                            (He did the mash) it caught on in a flash
+                            (He did the mash) he did the monster mash
+                           """);
 
-        System.out.println("Verse 2: (Wa-ooh) from my laboratory in the castle east"
-                            + " (Wa-ooh) to the master bedroom where the vampires feast"
-                            + " (Wa-wa-ooh) the ghouls all came from their humble abodes"
-                            + " (Wa-ooh) to get a jolt from my electrodes");
+        System.out.println("""
+                           Verse 2: 
+                            (Wa-ooh) from my laboratory in the castle east
+                            (Wa-ooh) to the master bedroom where the vampires feast
+                            (Wa-wa-ooh) the ghouls all came from their humble abodes
+                            (Wa-ooh) to get a jolt from my electrodes
+                            """);
 
-        System.out.println("Chorus 2: (They did the mash) they did the monster mash"
-                            + " (The monster mash) it was a graveyard smash"
-                            + " (They did the mash) it caught on in a flash"
-                            + " (They did the mash) they did the monster mash");
+        System.out.println("""
+                           Chorus 2: 
+                            (They did the mash) they did the monster mash
+                            (The monster mash) it was a graveyard smash
+                            (They did the mash) it caught on in a flash
+                            (They did the mash) they did the monster mash
+                           """);
 
-        System.out.println("Bridge: (Wa-ooh) the zombies were having fun"
-                        + " (Ta-da-shoop, wa-ooh) the party had just begun"
-                        + " (Ta-da-shoop, wa-ooh) the guests included Wolfman"
-                        + " (Ta-da-shoop, wa-ooh) Dracula, and his son");
+        System.out.println("""
+                           Bridge: 
+                            (Wa-ooh) the zombies were having fun
+                            (Ta-da-shoop, wa-ooh) the party had just begun
+                            (Ta-da-shoop, wa-ooh) the guests included Wolfman
+                            (Ta-da-shoop, wa-ooh) Dracula, and his son
+                           """);
         
-        System.out.println("Verse 3: (Wa-ooh) the scene was rockin', all were digging the sounds"
-                        + " (Wa-ooh) Igor on chains, backed by his baying hounds"
-                        + " (Wa-wa-ooh) the coffin-bangers were about to arrive"
-                        + " (Wa-ooh) with their vocal group, The Crypt-Kicker Five");
+        System.out.println("""
+                           Verse 3: 
+                            (Wa-ooh) the scene was rockin', all were digging the sounds
+                            (Wa-ooh) Igor on chains, backed by his baying hounds
+                            (Wa-wa-ooh) the coffin-bangers were about to arrive
+                            (Wa-ooh) with their vocal group, The Crypt-Kicker Five
+                           """);
 
-        System.out.println("Chorus 3: (They played the mash), they played the monster mash"
-                        + " (The monster mash) it was a graveyard smash"
-                        + " (They played the mash) it caught on in a flash"
-                        + " (They played the mash) they played the monster mash");
+        System.out.println("""
+                           Chorus 3: 
+                             (They played the mash), they played the monster mash
+                            (The monster mash) it was a graveyard smash
+                            (They played the mash) it caught on in a flash
+                            (They played the mash) they played the monster mash
+                           """);
 
-        System.out.println("Verse 4: (Wa-ooh) out from his coffin', Drac's voice did ring"
-                        + " (Wa-ooh) seems he was troubled by just one thing"
-                        + " (Wa-wa-ooh) he opened the lid and shook his fist and said"
-                        + " (Wa-ooh) \"Whatever happened to my Transylvania Twist?\"");
+        System.out.println("""
+                           Verse 4: 
+                            (Wa-ooh) out from his coffin', Drac's voice did ring
+                            (Wa-ooh) seems he was troubled by just one thing
+                            (Wa-wa-ooh) he opened the lid and shook his fist and said
+                            (Wa-ooh) "Whatever happened to my Transylvania Twist?"
+                           """);
 
-         System.out.println("Chorus 4: (It's now the mash) it's now the monster mash"
-                        + " (The monster mash) and it's a graveyard smash"
-                        + " (It's now the mash) it's caught on in a flash"
-                        + " (It's now the mash) it's now the monster mash");
+         System.out.println("""
+                            Chorus 4:
+                              (It's now the mash) it's now the monster mash
+                             (The monster mash) and it's a graveyard smash
+                             (It's now the mash) it's caught on in a flash
+                             (It's now the mash) it's now the monster mash
+                            """);
 
+        System.out.println("""
+                           Verse 5: 
+                            (Wa-ooh) MISTAKE MISTAKE now everything's cool, Drac's a part of the band
+                            (Wa-ooh) and my Monster Mash is the hit of the land
+                            (Wa-wa-ooh) for you, the living, this mash was meant too
+                            (Wa-ooh) when you get to my door, tell them Boris sent you
+                           """);
+
+        System.out.println("""
+                           Chorus 5: 
+                            (Then you can mash) then you can monster mash
+                            (The monster mash) and do my graveyard smash
+                            (Then you can mash) you'll catch on in a flash
+                            (Then you can mash) then you can monster mash
+                           """);
     }
 }
